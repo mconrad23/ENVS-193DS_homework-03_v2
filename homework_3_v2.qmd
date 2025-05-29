@@ -61,3 +61,32 @@ ggplot(data, aes(x = `Type of Music`, y = `Length of Study Session (hours)`, col
 
 ##c. Caption 
 [Figure 1.The length of each study session in hours by the type of music listened to during each session. Each point represents the length (in hours) of an individual study session under a specific type of music. Colored jittered points show the distribution of individual sessions, while black diamonds represent the mean study length for each genre. This visualization highlights how different music types may be associated with longer or shorter average study duration, which may have effects on productivity and how much work is accomplished during each study session.]
+
+##d. Table presentation
+
+```{r}
+# load extra extra library
+library(gt)
+
+# summarize data (mean study session length by type of music)
+summary_table <- data %>%
+  group_by(`Type of Music`) %>%
+  summarise(`Mean Study Length (hours)` = round(mean(`Length of Study Session (hours)`, na.rm = TRUE), 1))
+
+# create table 
+summary_table %>%
+  gt() %>%
+  tab_header(
+    title = "Average Study Session Length by Music Genre"
+  ) %>%
+  cols_label(
+    `Type of Music` = "Type of Music",
+    `Mean Study Length (hours)` = "Mean Length (hours)"
+  ) %>%
+  fmt_number(
+    columns = `Mean Study Length (hours)`,
+    decimals = 1
+  )
+
+```
+
