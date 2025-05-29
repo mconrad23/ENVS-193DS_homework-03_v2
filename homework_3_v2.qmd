@@ -94,3 +94,26 @@ summary_table %>%
 ##a. Describe in words what an affective visualization could look like for your personal data
 
 [An affective visualization for my personal data could use cool-toned, calming colors like soft blues and greens for music genres that correspond with longer, focused study sessions, and warm-toned, harsher reds or oranges for genres linked to shorter, more distracted sessions. Coloring with different brain wave patterns will represent how much activity and focus was happening during the types of music study session; tighter, closer together wave patterns are associated with gamma and beta waves, indicating times of deep focus in the brain whereas longer, rounder waves are associated with alpha and theta waves indicating times of relaxation and reflection in the brain. Including notes about what was going on during the study session and reflecting on my mood or feelings during each session could deepen the emotional connection that the data invokes; this would allow viewers to feel the impact of music on my study experience]
+
+##b. Create a sketch (on paper) of your idea.
+
+```{r}
+
+```
+
+
+##c. Make a draft of your visualization
+
+
+##d. Write an artist statement 
+[This piece shows the amount of focus and duration associated with study sessions where a particular type of music was listened. Cooler toned colors and tighter, steeper wave patterns are used for classical and ambient music as these types were found to be associated with deeper focus and longer duration during study session. Warmer toned colors and rounder, less tight waves were used for electropop and folk music as these types we found to be associated with shorter bursts of focus and less time spent working. I used a mix of pen and highlighter to have the color and notes represented and each music type was given its own font. My own doodles and personal art style were used as inspiration. The form of this work is on lined notebook paper and was made with a mix of ballpoint pen and highlighters. I created this work by writing out each name of music and drawing wave patterns in the associated color around each word. I then filled in notes and feelings that came up during each study session and how I felt during them.]
+
+#Problem 3.Statistical critique 
+
+##a. 
+
+##b
+
+##c
+
+##d. 
