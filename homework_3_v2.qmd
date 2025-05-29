@@ -104,6 +104,12 @@ summary_table %>%
 
 ##c. Make a draft of your visualization
 
+![Sketch of affective visualization](sketch.jpg)
+
+
+```{r}
+
+```
 
 ##d. Write an artist statement 
 [This piece shows the amount of focus and duration associated with study sessions where a particular type of music was listened. Cooler toned colors and tighter, steeper wave patterns are used for classical and ambient music as these types were found to be associated with deeper focus and longer duration during study session. Warmer toned colors and rounder, less tight waves were used for electropop and folk music as these types we found to be associated with shorter bursts of focus and less time spent working. I used a mix of pen and highlighter to have the color and notes represented and each music type was given its own font. My own doodles and personal art style were used as inspiration. The form of this work is on lined notebook paper and was made with a mix of ballpoint pen and highlighters. I created this work by writing out each name of music and drawing wave patterns in the associated color around each word. I then filled in notes and feelings that came up during each study session and how I felt during them.]
