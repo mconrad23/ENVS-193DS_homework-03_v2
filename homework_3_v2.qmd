@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
 ```
 
 
-#1. Personal data 
+#Porblem 1. Personal data 
 
 ##a. Data summarizing 
 
@@ -89,4 +89,8 @@ summary_table %>%
   )
 
 ```
+#Problem 2.  Affective visualization
 
+##a. Describe in words what an affective visualization could look like for your personal data
+
+[An affective visualization for my personal data could use cool-toned, calming colors like soft blues and greens for music genres that correspond with longer, focused study sessions, and warm-toned, harsher reds or oranges for genres linked to shorter, more distracted sessions. Coloring with different brain wave patterns will represent how much activity and focus was happening during the types of music study session; tighter, closer together wave patterns are associated with gamma and beta waves, indicating times of deep focus in the brain whereas longer, rounder waves are associated with alpha and theta waves indicating times of relaxation and reflection in the brain. Including notes about what was going on during the study session and reflecting on my mood or feelings during each session could deepen the emotional connection that the data invokes; this would allow viewers to feel the impact of music on my study experience]
