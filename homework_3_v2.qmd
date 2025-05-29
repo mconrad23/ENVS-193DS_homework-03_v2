@@ -1,0 +1,8 @@
+---
+title: "homework_3_v2"
+name: "Madison Conrad"
+date: "05-28-2025"
+format: html
+---
+
+[Link to GitHub Repo](https://github.com/mconrad23/ENVS-193DS_homework-03_v2.git)
