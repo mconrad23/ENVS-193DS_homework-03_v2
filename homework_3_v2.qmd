@@ -97,29 +97,28 @@ summary_table %>%
 
 ##b. Create a sketch (on paper) of your idea.
 
-```{r}
-
-```
+![Sketch of affective visualization](sketchv2.jpg)
 
 
 ##c. Make a draft of your visualization
 
-![Sketch of affective visualization](sketch.jpg)
-
-
-```{r}
-
-```
+![Draft of affective visualization](visual.jpg)
 
 ##d. Write an artist statement 
 [This piece shows the amount of focus and duration associated with study sessions where a particular type of music was listened. Cooler toned colors and tighter, steeper wave patterns are used for classical and ambient music as these types were found to be associated with deeper focus and longer duration during study session. Warmer toned colors and rounder, less tight waves were used for electropop and folk music as these types we found to be associated with shorter bursts of focus and less time spent working. I used a mix of pen and highlighter to have the color and notes represented and each music type was given its own font. My own doodles and personal art style were used as inspiration. The form of this work is on lined notebook paper and was made with a mix of ballpoint pen and highlighters. I created this work by writing out each name of music and drawing wave patterns in the associated color around each word. I then filled in notes and feelings that came up during each study session and how I felt during them.]
 
 #Problem 3.Statistical critique 
 
-##a. 
+##a. Revisit and summarize 
+[The questions that the authors are addressing is whether the boundaries of a science identity shift for students in Hawai’i after being participants in a place-based experiential research training program as well as does repeated exposure to such communities and practices have effects on students science identity over time, particularly in the transition from high school to undergrad. Upon further reviewing of this study, it was found that the authors primarily used repeated-measures ANOVA as well as t-test (two-tailed Student’s t-test) to analyze changes in marine science identity scores over time among the participants. This statistical approach allowed them to assess whether students’ identities significantly changed across multiple time points (before, during, and after the research experience). They also included comparisons to determine at which time points significant differences occurred. These analyses addressed the core research question about how students’ sense of identity in marine science developed over time. The response variable is the students’ science identity measured before and after the program via surveys, which addressed dimensions such as Performance, Competence, Interest, and Recognition; the predictor variable is participation in the program. There is not one singular figure that measures all of these parameters so only performance is included as an example]
 
-##b
+![Figure for statistical critique](figure6.jpg)
+##b. Visual clarity 
+[The authors clearly displayed summary statistics using bar graphs with error bars representing standard error. The x-axis labels the topic areas clearly, although the rotated text can be a bit hard to read. Grouping by participant type (New Student vs. Mentor) and time point (pre vs. post) seems intuitive and is consistent throughout the figure. The underlying data (individual scores or distribution) is not shown; this limits transparency about score variability.]
 
-##c
+##c. Aesthetic clarity 
+[The figure is pretty clean with a good ratio of data to ink. There’s minimal visual clutter, and the use of asterisk and letter annotations effectively directs the reader to significant differences. However, the angle of the x-axis labels is slightly distracting and takes away some amount of legibility. The black-and-white color scheme is functional, but it could be enhanced with color to increase readability and accessibility]
 
-##d. 
+##d. Recommendations 
+[To improve this figure, I would recommend adding jittered dot plots or boxplots over the bars to show individual participant data, which would help visualize the spread and variance of scores. Also, replacing or supplementing the grayscale bars with color could improve clarity, especially for those with visual impairments. The x-axis labels should either be shortened or rotated horizontally if space allows, to also improve readability. A more direct comparison of pre/post scores could also be represented by connecting individual students’ pre- and post-scores with lines in a paired plot format. This would emphasize within-subject changes and strengthen the reader’s understanding of the learning impact.]
+
