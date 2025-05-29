@@ -6,3 +6,21 @@ format: html
 ---
 
 [Link to GitHub Repo](https://github.com/mconrad23/ENVS-193DS_homework-03_v2.git)
+
+```{r setup, include=FALSE}
+#load in packages
+library(tidyverse)
+library(here)
+library(gt)
+library(janitor)
+library(readxl)
+
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+```
+
+
+#1. Personal data 
+
+##a. Data summarizing 
+
+[To summarize my data in order to compare the response variable between categories, I should calculate the mean length of study sessions for each type of music to compare how different music genres might affect how long I am studying. This comparison would be informative because the type of music may influence focus and productivity, potentially leading to longer or shorter study sessions depending on the genre.]
